@@ -6,7 +6,7 @@ It is a number that is equal to the sum of cubes of its digits. For example 0, 1
 
 Let's try to understand why 153 is an Armstrong number.
 
-```math
+~~~
 153 = (1*1*1)+(5*5*5)+(3*3*3)  
 where:  
 (1*1*1) = 1  
@@ -14,7 +14,7 @@ where:
 (3*3*3) = 27  
 So:  
 1+125+27 = 153
-```
+~~~
 
 ## Palindrome Number
 It is the number that remains the same when its digits get reversed.\
